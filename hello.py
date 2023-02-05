@@ -6,4 +6,7 @@ print("some new changes")
 print("adding new feature")
 print("changes made locally")
 print("added new features by team member")
-
+print("stash")
+print("stash 1")
+print("stash 2")
+print("new stash")
